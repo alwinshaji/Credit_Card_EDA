@@ -1,6 +1,6 @@
 # Credit Card Fraud Analysis
 
-This repository contains exploratory data analysis (EDA) on a **Credit Card Fraud Detection** dataset sourced from Kaggle (Credit Card Fraud by Dhanush Narayanan) :contentReference[oaicite:0]{index=0}. The dataset includes 8 features that represent customer behavior, transaction characteristics, and fraud labels.
+This repository contains exploratory data analysis (EDA) on a **Credit Card Fraud Detection** dataset sourced from Kaggle. The dataset includes 8 features that represent customer behavior, transaction characteristics and fraud labels.
 
 ## Dataset Overview
 
