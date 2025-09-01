@@ -4,7 +4,7 @@ This repository contains exploratory data analysis (EDA) on a **Credit Card Frau
 
 ## Dataset Overview
 
-- **Source**: Kaggle – Credit Card Fraud by Dhanush Narayanan :contentReference[oaicite:1]{index=1}  
+- **Source**: [Kaggle Dataset](https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud)
 - **Features**:
   - `distance_from_home`
   - `distance_from_last_transaction`
